@@ -1,0 +1,9 @@
+dooflask_cli.egg-info/
+build/
+dist/
+.vscode/
+venv/
+venv*/
+
+*.swp
+*.pyc
